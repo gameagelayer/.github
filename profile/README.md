@@ -1,4 +1,10 @@
 ## Hi there 👋
+### Standard of development produced by "Game".
+Welcome to the organization for development produced by "Game".
+Please check below gideline of development!!
+
+[**OUR GIDELINE**](https://gameagelayer.notion.site/Development-guideline-a196a7eea0824987880bf5527dedddf5)
+
 
 <!--
 
